@@ -1,0 +1,32 @@
+{
+    "name": "page-preloader",
+    "version": "1.0.0",
+    "homepage": "https://github.com/bumbella/page-preloader",
+    "authors": [
+        {
+            "name": "bumbella",
+            "email": "bumbiii@freemail.hu",
+            "homepage": "https://github.com/bumbella/"
+        }
+    ],
+    "description": "Preloading page",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bumbella/page-preloader.git"
+    },
+    "main": [
+        "js/page-preloader.js"
+    ],
+    "dependencies": {
+        "jquery": ">=1.8",
+        "Bowser": "*"
+    },
+    "moduleType": [
+        "globals"
+    ],
+    "keywords": [
+    ],
+    "license": "MIT",
+    "ignore": [
+    ]
+}
