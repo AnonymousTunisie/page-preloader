@@ -13,7 +13,7 @@ bower install https://github.com/bumbella/page-preloader.git
 
 CSS
 ```
-<link href="path/to/install/dir/css/page-preload.css" rel="stylesheet">
+<link href="path/to/install/dir/css/page-preloader.css" rel="stylesheet">
 ```
 
 Javascript
