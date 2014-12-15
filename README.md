@@ -21,6 +21,17 @@ Javascript
 <script src="path/to/install/dir/js/page-preloader.js"></script>
 ```
 
+```
+Insert this html after <body> tag
+
+<section class="page-loader">
+    <div class="loading">
+        <div class="loading-spin"></div>
+        <span>Loading...</span>
+    </div>
+</section>
+```
+
 ### 3 Extended dependencies
 
 Bootstrap
